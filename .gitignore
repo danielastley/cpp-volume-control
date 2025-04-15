@@ -1,0 +1,16 @@
+# Specific files in folder
+volume_control
+volume_control.exe
+volume_control*
+
+#Ignore default GCC/Clang output
+a.out
+
+# Ignore all files ending with .out
+*.out
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore object files
+*.o
